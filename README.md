@@ -1,5 +1,4 @@
-# PFA
-Pattern fusion analysis
+# PFA: Pattern fusion analysis
 
 This is a backup repository of matlab package for pattern fusion analysis (PFA).
 
@@ -7,6 +6,7 @@ Motivation: Integrating different omics profiles is a challenging task, which pr
 
 Results: To validate the effectiveness of our method, we first tested PFA on various synthetic datasets, and found that PFA can not only capture the intrinsic sample clustering structures from the multi-omics data in contrast to the state-of-the-art methods, such as iClusterPlus, SNF and moCluster, but also provide an automatic weight-scheme to measure the corresponding contributions by data types or even samples. In addition, the computational results show that PFA can reveal shared and complementary sample-patterns across data types with distinct signal-to-noise ratios in Cancer Cell Line Encyclopedia (CCLE) datasets, and outperforms over other works at identifying clinically distinct cancer subtypes in The Cancer Genome Atlas (TCGA) datasets.
 
-Reference:
+# Reference:
 Shi Q, Zhang C, Peng M, Yu X, Zeng T, Liu J, Chen L. Pattern fusion analysis by adaptive alignment of multiple heterogeneous omics data. Bioinformatics. 2017 Sep 1;33(17):2706-2714. doi: 10.1093/bioinformatics/btx176. PMID: 28520848.
 
+Code issues can contact: Chuanchao Zhang (chuanchaozhang@ucas.ac.cn, chaozhangchuan@163.com); or Tao Zeng (zengtao@sibs.ac.cn, zeng_tao@gzlab.ac.cn)
